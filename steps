@@ -1,0 +1,6 @@
+(*) npx create-react-native-app ./
+(*) creatae folder screens and make files in it
+(*) creatae folder components and make files in it
+(*) npm i react-native-vector-icons
+(*) npm i react-native-google-places-autocomplete
+(*) ASSETS for project ( https://s3.amazonaws.com/kajabi-storefronts-production/sites/18907/themes/2148797647/downloads/PUOb2rpDSfqhfvMPJmpO_Uber_Eats_Clone_Supplemental_Guide.pdf )
